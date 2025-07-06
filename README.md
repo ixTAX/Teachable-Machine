@@ -1,7 +1,7 @@
 # Teachable-Machine
 A project using teachable machine model to know the class of a selected image
 
-1- Using Teachable machine to train a model for 31 Cars and 22 Bycycles and testing with a Car
+1- Using Teachable machine to train a model for 31 Cars and 22 Bicycles and testing with a Car
 ![Screenshot 2025-07-06 125758](https://github.com/user-attachments/assets/2ebb1b02-152b-40d6-8a9d-b4be5884a0d0)
 
 2- Testing again with a bicycle to make sure it is working
