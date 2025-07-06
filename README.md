@@ -15,3 +15,5 @@ A project using teachable machine model to know the class of a selected image
 
 5- The result is class Car with 99.99964% Confidence Score
 ![Screenshot 2025-07-06 135546](https://github.com/user-attachments/assets/76e3d4b4-a813-4d33-8008-6d672fb6ed3b)
+
+The pictures used for training the model is included on the same folder Named Car and Bicycle
